@@ -1,3 +1,7 @@
 {
-  "generator-node-api": {}
+  "generator-rest": {
+    "srcDir": "src",
+    "apiDir": "api",
+    "authMethods": []
+  }
 }
